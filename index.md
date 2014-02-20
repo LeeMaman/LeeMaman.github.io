@@ -4,6 +4,6 @@ layout: default
 
 ## Hello there!
 
-{{ site.welcome_text }}
+{{ test }}
 
 Support us with 3 clicks now!
