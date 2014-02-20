@@ -41,9 +41,9 @@ twitter_handle:   Vein Kickstarter Dream
 google_analytics: 
 #
 # 6. Welcome text, add <br /> to break lines
-welcome_text:     |
- Hey everybody! <br />
-  I just want to thank you in advance for supporting my music and getting involved with the new album!<br />
+welcome_text:
+
+ Hey everybody! I just want to thank you in advance for supporting my music and getting involved with the new album!<br />
   This is a very special project for me, and by far, the most exciting! <br />
   Please jump on board and be part of my team with just three simple clicks! <br />
   And when you arrive at my Kickstarter page, you can take it even further by pledging!<br>
